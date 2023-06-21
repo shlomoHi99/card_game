@@ -1,10 +1,10 @@
-//import Layout from "./components/Layout/Layout";
-import Layout2 from "./components2/Layout2";
+
+import Layout from "./components/Layout";
 
 function App() {
   return (
     <>
-    <Layout2/>
+    <Layout/>
     </>
   );
 }

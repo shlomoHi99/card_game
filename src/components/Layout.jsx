@@ -7,7 +7,7 @@ import SpecificQuestion from './SpecificQuestion'
 import CheckAnswer from './CheckAnswer'
 import CompetitiveGame from './CompetitiveGame'
 
-export default function Layout2() {
+export default function Layout() {
   return (
     <>
     <Header/>
