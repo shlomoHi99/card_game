@@ -1,0 +1,235 @@
+[{
+    "question": "In which city stands the Eiffel tower?",
+    "questionUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/375px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg",
+
+    "wrongAnswers": ["London", "Berlin", "Moscow"],
+    "rightAns": "Paris",
+    "subject": "geo",
+    "level": "easy"
+  },
+  {
+    "question": "In which city stands the Big Ben?",
+    "questionUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvDlM2Ms8IQyJRxL0KvFtJzr0CBJN2W7ZEGQ&usqp=CAU",
+
+    "wrongAnswers": ["Paris", "Prague", "New York"],
+    "rightAns": "London",
+    "subject": "geo",
+    "level": "easy"
+  },
+  {
+    "question": "In which city stands the Charles bridge?",
+    "questionUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ti3H-or0pmN-lX4vMNcO2Q6tOpQdcw94fg&usqp=CAU",
+
+    "wrongAnswers": ["Vienna", "Barcelona", "Paris"],
+    "rightAns": "Prague",
+    "subject": "geo",
+    "level": "easy"
+  },
+  {
+    "question": "In which city stands the Red square?",
+    "questionUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3anFFHfqjt3IJ1kHbtKjY2oyZpw9F4a5ObA&usqp=CAU",
+    "wrongAnswers": ["New York", "Berlin", "London"],
+    "rightAns": "Moscow",
+    "subject": "geo",
+    "level": "easy"
+  },
+  {
+    "question": "In which city stands the Reichstag?",
+    "questionUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRz9av0MKEBcJVBDEyxDHJSM66pnXjwyCV2g&usqp=CAU",
+    "wrongAnswers": ["Madrid", "Vienna", "Rome"],
+    "rightAns": "Berlin",
+    "subject": "geo",
+    "level": "easy"
+  },
+  {
+    "question": "In which city stands the Rialto bridge?",
+    "questionUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDllMCo_-Jwwma8S--96xAQ8pWeIHZxZrnWQ&usqp=CAU",
+    "wrongAnswers": ["Rome", "Prague", "London"],
+    "rightAns": "Venice",
+    "subject": "geo",
+    "level": "easy"
+  },
+  {
+    "question": "In which city stands the Sagrada Familia?",
+    "questionUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZc_973Li-4v3C3J9iKzKvnJffODc_458AXA&usqp=CAU",
+    "wrongAnswers": ["Madrid", "Prague", "Stockholm"],
+    "rightAns": "Barcelona",
+    "subject": "geo",
+    "level": "easy"
+  },
+  {
+    "question": "In which city stands the Buda Castle?",
+    "questionUrl": "https://www.planetware.com/photos-large/H/hungary-budapest-buda-castle.jpg",
+    "wrongAnswers": ["Tokyo", "Hong-Kong", "New Deli"],
+    "rightAns": "Budapest",
+    "subject": "geo",
+    "level": "easy"
+  },
+  {
+    "question": "In which city stands the Golden Gate bridge?",
+    "questionUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiWUTr7flYn-KknN52jKU6oSGOR5HktbnQg&usqp=CAU",
+    "wrongAnswers": ["New York", "Istanbul", "Chicago"],
+    "rightAns": "San Francisco",
+    "subject": "geo",
+    "level": "easy"
+  },
+  {
+    "question": "In which city stands the Giza pyramid?",
+    "questionUrl": "https://cdn.britannica.com/80/178480-050-33D73D95/Pyramids-Giza-Egypt.jpg?w=690&h=388&c=crop",
+    "wrongAnswers": ["Alexandria", "Amman", "Bengazi"],
+    "rightAns": "Cairo",
+    "subject": "geo",
+    "level": "easy"
+  },
+  {
+    "question": "What country have this flag?",
+    "questionUrl": "https://www.worldometers.info/img/flags/is-flag.gif",
+    "wrongAnswers": ["Vietnam", "China", "Croatia"],
+    "rightAns": "Israel",
+    "subject": "geo",
+    "level": "medium"
+  },
+  {
+    "question": "What country have this flag?",
+    "questionUrl": "https://www.worldometers.info/img/flags/it-flag.gif",
+    "wrongAnswers": ["Mexico", "Hungary", "France"],
+    "rightAns": "Italy",
+    "subject": "geo",
+    "level": "medium"
+  },
+  {
+    "question": "What country have this flag?",
+    "questionUrl": "https://www.worldometers.info/img/flags/ja-flag.gif",
+    "wrongAnswers": ["Bangladesh", "India", "Pakistan"],
+    "rightAns": "Japan",
+    "subject": "geo",
+    "level": "medium"
+  },
+
+  {
+    "question": "What country have this flag?",
+    "questionUrl": "https://www.worldometers.info/img/flags/mg-flag.gif",
+    "wrongAnswers": ["China", "Bangladesh", "Aphganistan"],
+    "rightAns": "Mongolia",
+    "subject": "geo",
+    "level": "medium"
+  },
+  {
+    "question": "What country have this flag?",
+    "questionUrl": "https://www.worldometers.info/img/flags/md-flag.gif",
+    "wrongAnswers": ["Andora", "Romania", "Columbia"],
+    "rightAns": "Moldova",
+    "subject": "geo",
+    "level": "medium"
+  },
+  {
+    "question": "What country have this flag?",
+    "questionUrl": "https://www.worldometers.info/img/flags/small/tn_ks-flag.gif",
+    "wrongAnswers": ["North Korea", "Georgia", "Sweden"],
+    "rightAns": "South Korea",
+    "subject": "geo",
+    "level": "medium"
+  },
+  {
+    "question": "What country have this flag?",
+    "questionUrl": "https://www.worldometers.info/img/flags/sp-flag.gif",
+    "wrongAnswers": ["Portugal", "Brazil", "Germany"],
+    "rightAns": "Spain",
+    "subject": "geo",
+    "level": "medium"
+  },
+  {
+    "question": "What country have this flag?",
+    "questionUrl": "https://www.worldometers.info/img/flags/tu-flag.gif",
+    "wrongAnswers": ["Egypt", "Syria", "Iran"],
+    "rightAns": "Turkey",
+    "subject": "geo",
+    "level": "medium"
+  },
+  {
+    "question": "What country have this flag?",
+    "questionUrl": "https://www.worldometers.info/img/flags/uk-flag.gif",
+    "wrongAnswers": ["Australia", "New Zealand", "Fiji"],
+    "rightAns": "United Kingdom",
+    "subject": "geo",
+    "level": "medium"
+  },
+  {
+    "question": "What country have this flag?",
+    "questionUrl": "https://www.worldometers.info/img/flags/vm-flag.gif",
+    "wrongAnswers": ["China", "Laos", "Thailand"],
+    "rightAns": "Vietnam",
+    "subject": "geo",
+    "level": "medium"
+  },
+
+  {
+    "question": "What is the Capital city of Israel?",
+    "wrongAnswers": ["Tel Aviv", "Beer Sheva", "Haifa"],
+    "rightAns": "Jerusalem",
+    "subject": "geo",
+    "level": "hard"
+  },
+  {
+    "question": "What is the Capital city of Moldova?",
+    "wrongAnswers": ["Benderi", "Tiraspol", "Ribnitsa"],
+    "rightAns": "Chishinau",
+    "subject": "geo",
+    "level": "hard"
+  },
+  {
+    "question": "What is the Capital city of Japan?",
+    "wrongAnswers": ["Yokohama", "Osaka", "Hiroshima"],
+    "rightAns": "Tokyo",
+    "subject": "geo",
+    "level": "hard"
+  },
+  {
+    "question": "What is the Capital city of Germany?",
+    "wrongAnswers": ["Drezden", "Munchen", "Hamburg"],
+    "rightAns": "Berlin",
+    "subject": "geo",
+    "level": "hard"
+  },
+  {
+    "question": "What is the Capital city of Hungary?",
+    "wrongAnswers": ["Szombathely", "Gyor", "Szolnok"],
+    "rightAns": "Budapest",
+    "subject": "geo",
+    "level": "hard"
+  },
+  {
+    "question": "What is the Capital city of Italy?",
+    "wrongAnswers": ["Venice", "Verona", "Milano"],
+    "rightAns": "Rome",
+    "subject": "geo",
+    "level": "hard"
+  },
+  {
+    "question": "What is the Capital city of Netherlands?",
+    "wrongAnswers": ["Rotterdam", "Haag", "Eindhoven"],
+    "rightAns": "Amsterdam",
+    "subject": "geo",
+    "level": "hard"
+  },
+  {
+    "question": "What is the Capital city of Greece?",
+    "wrongAnswers": ["Sparta", "Yanina", "Volos"],
+    "rightAns": "Athens",
+    "subject": "geo",
+    "level": "hard"
+  },
+  {
+    "question": "What is the Capital city of France?",
+    "wrongAnswers": ["Rome", "Berlin", "Madrid"],
+    "rightAns": "Paris",
+    "subject": "geo",
+    "level": "hard"
+  },
+  {
+    "question": "What is the Capital city of Spain?",
+    "wrongAnswers": ["Barcelona", "Valencia", "Malaga"],
+    "rightAns": "Madrid",
+    "subject": "geo",
+    "level": "hard"
+  }]
